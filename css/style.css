@@ -1,0 +1,49 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo img {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav {
+    width: 73%;
+    padding:1%;
+}
+
+ul {
+    width: 50px;
+    margin-left: auto;
+}
+
+section img {
+    height: 300px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin:0 auto;
+}
+
+footer {
+    background color: #373738;
+}
+
+footer.ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: center;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:200;
+}
+
+ul {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
